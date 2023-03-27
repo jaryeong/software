@@ -1,4 +1,5 @@
 print("hello python!!")
 print("hello")
 print("hello world")
-print("world world")
+print("world world world")
+print("seventh")
