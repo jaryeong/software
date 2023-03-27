@@ -1,7 +1,2 @@
 print("hello python!!")
-print("hello")
-print("hello world")
-print("world world world")
-print("seventh")
-print("eightth")
-print("nineth")
+print("ten")
