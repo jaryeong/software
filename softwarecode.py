@@ -1,3 +1,3 @@
 print("hello python!!")
 print("ten")
-print("first")
+print("second")
