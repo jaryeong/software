@@ -1,3 +1,3 @@
 print("hello python!!")
 print("ten")
-print("hundred")
+print("java")
